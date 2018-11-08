@@ -14,7 +14,7 @@ namespace ReflexionSingleton
             Bidule b2 = Bidule.GetInstance();
 
             Console.WriteLine(b1.Equals(b2));  
-            
+             Console.WriteLine("Essai de modif depuis Github");
 
             Console.ReadLine();
             Console.ReadKey();
