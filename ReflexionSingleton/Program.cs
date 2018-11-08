@@ -13,7 +13,8 @@ namespace ReflexionSingleton
             Bidule b1 = Bidule.GetInstance();
             Bidule b2 = Bidule.GetInstance();
 
-            Console.WriteLine(b1.Equals(b2));            
+            Console.WriteLine(b1.Equals(b2));  
+            
 
             Console.ReadLine();
 
