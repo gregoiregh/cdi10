@@ -17,6 +17,7 @@ namespace ReflexionSingleton
             
 
             Console.ReadLine();
+            Console.ReadKey();
 
         }
     }
